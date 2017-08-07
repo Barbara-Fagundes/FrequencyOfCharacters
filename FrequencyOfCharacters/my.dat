@@ -1,0 +1,8 @@
+ Program Reformat reads characters from file DataIn and 
+ writes them to DataOut with the following changes:             
+    all letters are converted to uppercase, digits are
+    unchanged, and all other characters except blanks and         
+    newline markers are removed.   
+	
+	353677
+

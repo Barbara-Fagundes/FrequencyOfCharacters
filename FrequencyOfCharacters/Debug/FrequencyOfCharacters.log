@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\barbara\documents\visual studio 2017\projects\frequencyofcharacters\frequencyofcharacters\source.cpp(21): warning C4101: 'index': unreferenced local variable
+  FrequencyOfCharacters.vcxproj -> C:\Users\Barbara\Documents\Visual Studio 2017\Projects\FrequencyOfCharacters\Debug\FrequencyOfCharacters.exe
+  FrequencyOfCharacters.vcxproj -> C:\Users\Barbara\Documents\Visual Studio 2017\Projects\FrequencyOfCharacters\Debug\FrequencyOfCharacters.pdb (Partial PDB)
